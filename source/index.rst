@@ -16,6 +16,4 @@ Python 和数据科学
     :maxdepth: 2
     :glob:
     
-    beginning/index
-    base/index
-    tools/index
+ 
