@@ -1,31 +1,29 @@
-# Python 和数据科学
+# Shenzhen DOIT (www.doit.am, shop: www.vvdoit.com)
 
-### 全书目录：
+### Iot Product Catalog
 
-入门篇：
+ESP WiFi module:
 
-- Linux
-- ipython
-- 数值计算（Numpy）
-- 数据绘图（Matplotlib）
-- 数据绘图（Seabornd)
+- ESP8266
+- ESP8285
+- ESP32
 
-基础篇：
+Smart Product
 
-- 数据操作（Pandas）
-- 概率和统计分析（StatsModels）
-- 数值计算（Scipy）
-- 线性模型（StatsModels）
-- 机器学习初步（SKlearn）
+- Smart Bulb
+- Smart Switch
+- Smart Projects
 
-理论篇：
 
-- 线性代数
-- 微积分
-- 统计学和概率论
-- 机器学习
+Development Board
 
-工具篇：
+- Control Board
+- Shield
+- Control Kit
 
-- 书籍推荐
-- 好资源
+Tools
+
+- Driver
+- App
+- Firmwares
+- Usefull links
