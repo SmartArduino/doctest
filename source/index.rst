@@ -16,6 +16,7 @@ Python 和数据科学
     :maxdepth: 2
     :glob:
     
+    WiFiModule/index
     beginning/index
     base/index
     tools/index
