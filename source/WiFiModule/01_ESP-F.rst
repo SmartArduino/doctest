@@ -36,6 +36,8 @@ Please click this link: `ESP-F <http://vvdoit.com/s-esp-f>`_;
 Features
 -------
 
+`How to Order`_;
+
 SOC characteristics
 ^^^^^^^^^
 * Built-in Tensilica L106 ultra-low power consumption 32-bit cpu,  the main frequency can be  80MHz and 160MHz,  also support RTOS;
